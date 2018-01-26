@@ -1,3 +1,3 @@
 # best-repo-ever
 # Das ist nur ein Test fuer Trailhead.
-# Hier ist ein Konflikt
+# Diese Zeile ist anders.
